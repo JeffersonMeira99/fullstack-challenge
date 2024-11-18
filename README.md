@@ -114,7 +114,7 @@ Corpo da Requisição:
 
 {
   "driver_id": 1,
-  "plate": "",
+  "plate": "234M3",
   "model": "Fusca",
   "type": "Sedan",
   "capacity": "4"
