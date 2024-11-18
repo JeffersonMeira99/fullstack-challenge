@@ -77,7 +77,7 @@ npm run test
 ## 5. Uso da API
 
 # Criar uma Company
-URL :http://localhost:3000/api/companies
+URL :http://localhost:3003/api/companies
 Método: POST
 Descrição: Cria uma nova empresa no sistema.
 Corpo da Requisição:
@@ -91,7 +91,7 @@ Corpo da Requisição:
 
 
 # Criar um Drivers
-URL :http://localhost:3000/api/drivers
+URL :http://localhost:3003/api/drivers
 Método: POST
 Descrição: Registra um novo motorista, associando-o a uma empresa existente.
 Corpo da Requisição:
@@ -107,7 +107,7 @@ Corpo da Requisição:
 }
 
 # Criar um Vehicles
-URL :http://localhost:3000/api/vehicles
+URL :http://localhost:3003/api/vehicles
 Método: POST
 Descrição: Adiciona um veículo ao sistema, associando-o a um motorista específico.
 Corpo da Requisição:
